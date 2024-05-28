@@ -1,0 +1,2 @@
+Direction: North
+Time: 12:00
